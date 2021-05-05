@@ -1,3 +1,4 @@
 [submodule "tinyXml"]
 	path = tinyXml
 	url = ../tinyXml
+	branch = main
